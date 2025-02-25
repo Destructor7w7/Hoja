@@ -33,6 +33,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     portfolioBtn.addEventListener('click', () => {
-        alert('Funcionalidad de portafolio en construcción.'); // Simplemente una alerta por ahora
+        window.location.href = "https://drive.google.com/drive/folders/1Y9Io6GR7WmlTevQ3HO_5p-xsWTW7YZZ6?usp=sharing";
     });
 });
